@@ -1,4 +1,8 @@
+## bug  fixed file ##
+## updated script.py##
 # Program to display the Fibonacci sequence up to n-th term
+
+
 
 nterms = int(input("How many terms? "))
 
